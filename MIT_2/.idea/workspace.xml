@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f036d798-c3bb-41f9-9a18-092aaca9e436" name="Changes" comment="" />
+    <list default="true" id="f036d798-c3bb-41f9-9a18-092aaca9e436" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../E_commerce/E_commerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/E_commerce/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/E_commerce/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/E_commerce/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/E_commerce/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/templates/homee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_commerce/shop/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School/students/templates/adm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School/students/templates/name.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../School/students/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kelly/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kelly/templates/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,29 +40,37 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2ccK6FaReAjIv8knF8Q8m4ykxDn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/emobilis/Documents/NAOMI/Web Development/Django/MIT_2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Documents/NAOMI/Web Development/Django/School&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MIT_2" type="Python.DjangoServer" factoryName="Django server">
       <module name="MIT_2" />
@@ -84,11 +114,21 @@
       <updated>1708405249711</updated>
       <workItem from="1708405250918" duration="962000" />
       <workItem from="1708406282265" duration="3886000" />
-      <workItem from="1708410201012" duration="511000" />
+      <workItem from="1708410201012" duration="1319000" />
+      <workItem from="1708411587327" duration="27000" />
+      <workItem from="1708411705463" duration="11000" />
+      <workItem from="1708411799361" duration="38000" />
+      <workItem from="1708412109911" duration="15000" />
+      <workItem from="1708412155504" duration="19000" />
+      <workItem from="1708412729119" duration="15000" />
+      <workItem from="1708413212990" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
