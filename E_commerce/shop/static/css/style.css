@@ -1,0 +1,27 @@
+.kk{
+    color: green;
+}
+.h{
+    border-radius: 40%;
+    float: right;
+}
+.o{
+    font-family: Chilanka, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.f{
+    border-radius: 32%;
+    float: left;
+}
+.q{
+    font-size: larger;
+    font-weight: bold;
+    font-family: FreeSans, ui-sans-serif;
+    color: darkred;
+}
+.a{
+    color: white;
+    font-family: Arial, cursive;
+    font-weight: bolder;
+}

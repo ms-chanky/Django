@@ -1,13 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Ab cum est illo ipsa nobis nostrum officia quis, rem
-reprehenderit ut? Aliquid assumenda dicta dolore doloremque
-rem sunt unde veniam. Cum.
-</body>
-</html>
+{% extends 'layout.html' %}
+
+{% load static %}
+
+{% block body %}
+    <br>
+    <img src="{% static 'images/roblox.jpeg' %}" alt="" class="kk">
+    <p>This is my homepage</p>
+    <p>Lorem ipsum dolor sit amet, consectetur
+        adipisicing elit. Accusantium animi dicta eos harum nobis
+        nostrum quam tempore voluptas voluptate! Assumenda
+        cum esse facere iusto mollitia nesciunt odit official
+        possimus ut!</p>
+
+{% endblock %}
