@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
+from .models import Student
+
 
 # Create your views here.
 
@@ -22,3 +24,8 @@ def adm(request):
 
 def namee(request):
     return render(request, 'name.html')
+
+
+def students_list(request):
+    student = Student.objects.all()
+    return render(request, 'students list.html', {"students": student})
